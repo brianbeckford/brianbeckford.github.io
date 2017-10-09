@@ -1,0 +1,93 @@
+p {
+	font-family: Arial;
+	font-size: 16px;
+	font-style: italic;
+	color: white;
+
+}
+
+body{
+	background: #ffffff;
+	background-image: url("http://answermandan.com/wp-content/uploads/Grey-website-background.png");
+	color: white;
+
+}
+
+
+ul{
+	font-size: 16px;
+
+}
+
+
+
+
+.stuff{
+	position: relative;
+	left: 50px;
+}
+
+
+.photo{
+	position: relative;
+	float: right;
+	float:top;
+	width: 200px;
+	height:250px;
+	-webkit-transform: rotate(-2deg);
+
+
+}
+
+
+.eduhead{
+	
+	float:left;
+}
+
+
+.edu{
+	
+	padding-left: 20px;
+	border-left: 1px solid white;
+	margin-left: 100px;
+	
+
+}
+
+.skillhead{
+	float:left;
+}
+
+.skills{
+	padding-left: 20px;
+	border-left: 1px solid white;
+	margin-left: 100px;
+}
+
+
+
+.exphead{
+	float:left;
+}
+
+.exp{
+	padding-left: 20px;
+	border-left: 1px solid white;
+	margin-left: 100px;
+}
+
+
+
+.hobhead{
+	float:left;
+}
+
+.hob{
+	padding-left: 20px;
+	border-left: 1px solid white;
+	margin-left: 100px;
+	margin-bottom: 50px;
+}
+
+
